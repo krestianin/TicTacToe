@@ -1,0 +1,19 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    // "java.project.referencedLibraries": {
+    //     "include": [
+    //         "lib/**/*.jar",
+    //         "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/lib/*.jar"
+    //     ],
+    //     "sources": {
+    //         "%PATH_TO_FX%/lib/javafx.base.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip",
+    //         "%PATH_TO_FX%/lib/javafx.controls.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip",
+    //         "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/lib/javafx.fxml.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip",
+    //         "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/lib/javafx.graphics.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip",
+    //         "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/lib/javafx.media.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip",
+    //         "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/lib/javafx.swing.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip",
+    //         "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/lib/javafx.web.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip",
+    //         "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/lib/javafx.swt.jar": "/Users/ivanpostolov/Desktop/CMPT 213/as4/javafx-sdk-21.0.1/src.zip"
+    //     }
+    // }
+}
