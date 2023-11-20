@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ca.cmpt213.asn4.tictactoe.game","l":"GameLogic"},{"p":"ca.cmpt213.asn4.tictactoe.ui","l":"GameUI"},{"p":"ca.cmpt213.asn4.tictactoe.ui","l":"TicTac"}];updateSearchResults();

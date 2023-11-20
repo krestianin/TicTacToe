@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/itdev/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/itdev/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/itdev/Desktop/IvanTicTac/target/classes;C:/Users/itdev/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar'
+--patch-module
+ca.cmpt213='C:/Users/itdev/Desktop/IvanTicTac/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/itdev/Desktop/IvanTicTac/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/itdev/Desktop/IvanTicTac/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'asn4 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/itdev/Desktop/IvanTicTac/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'asn4 1.0-SNAPSHOT API'
+ca.cmpt213.asn4.tictactoe.game
+ca.cmpt213.asn4.tictactoe.ui
+'C:/Users/itdev/Desktop/IvanTicTac/src/main/java/module-info.java'
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\allclasses-index.html = 1700443929229
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\allpackages-index.html = 1700443929229
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\copy.svg = 1700443929261
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\element-list = 1700443929167
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\help-doc.html = 1700443929245
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\index-all.html = 1700443929245
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\index.html = 1700443929245
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\link.svg = 1700443929261
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\member-search-index.js = 1700443929229
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\module-search-index.js = 1700443929229
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\overview-tree.html = 1700443929229
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\package-search-index.js = 1700443929229
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\script.js = 1700443929261
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\search-page.js = 1700443929267
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\search.html = 1700443929245
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\search.js = 1700443929266
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\stylesheet.css = 1700443929261
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\tag-search-index.js = 1700443929229
+C:\Users\itdev\Desktop\IvanTicTac\target\site\apidocs\type-search-index.js = 1700443929229
